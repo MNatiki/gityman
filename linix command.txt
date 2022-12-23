@@ -1,0 +1,21 @@
+LINUX SHELL COMMANDS
+
+echo  - To print on the terminal
+pwd  - Present Working Directory
+cd  - Change Directory (Name or absolute path)
+ls  - list files
+clear  - Clear terminal
+man  - Shows manual of any command
+mkdir  - Make directory
+touch  - Create blank/empty files
+chmod - Change Mode and permission of user 
+grep  - Search the file
+history - Command History
+mv  - Move or rename files (Same directory) in Linux
+cp  - Similar usage as mv but for copying files in Linux
+rm  - Delete files or directories 
+cat  - Display file contents on the terminal
+less  - Linux command to display paged outputs in the terminal
+head  - Return the specified number of lines from the top
+tail  - Return the specified number of lines from the bottom
+exit  - Exit terminal
